@@ -1,2 +1,37 @@
-# decodelabs-python-project2--expence-tracker
-DecodeLabs Internship 2026 | Python Expense  Tracker | Accumulators, try/except, int()
+# Project 2 — Expense Tracker
+### DecodeLabs Internship | Batch 2026
+
+## Developer
+Name: Tazmeen
+Batch: 2026
+
+## Project Overview
+A menu-driven Expense Tracker that calculates
+running totals using the Accumulator Pattern.
+
+## Key Skills Demonstrated
+- Accumulator pattern (total += expense)
+- int() type conversion
+- try/except error handling
+- global variables
+- continue statement
+- Defensive input validation
+
+## Features
+- Add multiple expenses dynamically
+- Running total updates after each entry
+- Complete expense breakdown in summary
+- Handles empty input gracefully
+- Handles invalid text input gracefully
+- Exit with full financial summary
+
+## How To Run
+python expense_tracker.py
+
+## Sample Output
+==============================
+  DECODELABS EXPENSE TRACKER
+==============================
+1. Add expense
+2. View summary
+3. Exit
